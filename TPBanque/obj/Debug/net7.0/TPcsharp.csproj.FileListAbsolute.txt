@@ -1,0 +1,29 @@
+F:/TPcsharp/bin/Debug/net7.0/TPcsharp.exe
+F:/TPcsharp/bin/Debug/net7.0/TPcsharp.deps.json
+F:/TPcsharp/bin/Debug/net7.0/TPcsharp.runtimeconfig.json
+F:/TPcsharp/bin/Debug/net7.0/TPcsharp.dll
+F:/TPcsharp/bin/Debug/net7.0/TPcsharp.pdb
+F:/TPcsharp/obj/Debug/net7.0/TPcsharp.GeneratedMSBuildEditorConfig.editorconfig
+F:/TPcsharp/obj/Debug/net7.0/TPcsharp.AssemblyInfoInputs.cache
+F:/TPcsharp/obj/Debug/net7.0/TPcsharp.AssemblyInfo.cs
+F:/TPcsharp/obj/Debug/net7.0/TPcsharp.csproj.CoreCompileInputs.cache
+F:/TPcsharp/obj/Debug/net7.0/TPcsharp.dll
+F:/TPcsharp/obj/Debug/net7.0/refint/TPcsharp.dll
+F:/TPcsharp/obj/Debug/net7.0/TPcsharp.pdb
+F:/TPcsharp/obj/Debug/net7.0/TPcsharp.genruntimeconfig.cache
+F:/TPcsharp/obj/Debug/net7.0/ref/TPcsharp.dll
+/home/heriniavotratoky/Documents/TP C#/TPBanque/bin/Debug/net7.0/TPcsharp
+/home/heriniavotratoky/Documents/TP C#/TPBanque/bin/Debug/net7.0/TPcsharp.deps.json
+/home/heriniavotratoky/Documents/TP C#/TPBanque/bin/Debug/net7.0/TPcsharp.runtimeconfig.json
+/home/heriniavotratoky/Documents/TP C#/TPBanque/bin/Debug/net7.0/TPcsharp.dll
+/home/heriniavotratoky/Documents/TP C#/TPBanque/bin/Debug/net7.0/TPcsharp.pdb
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/TPcsharp.csproj.AssemblyReference.cache
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/TPcsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/TPcsharp.AssemblyInfoInputs.cache
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/TPcsharp.AssemblyInfo.cs
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/TPcsharp.csproj.CoreCompileInputs.cache
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/TPcsharp.dll
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/refint/TPcsharp.dll
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/TPcsharp.pdb
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/TPcsharp.genruntimeconfig.cache
+/home/heriniavotratoky/Documents/TP C#/TPBanque/obj/Debug/net7.0/ref/TPcsharp.dll
